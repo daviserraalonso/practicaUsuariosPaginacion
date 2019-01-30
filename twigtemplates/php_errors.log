@@ -1,0 +1,6 @@
+[21-Jan-2019 20:11:12 UTC] PHP Warning:  require(../classes/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/practicaMVC/twigtemplates/maxim/_login.php on line 4
+[21-Jan-2019 20:11:12 UTC] PHP Fatal error:  require(): Failed opening required '../classes/autoload.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/practicaMVC/twigtemplates/maxim/_login.php on line 4
+[28-Jan-2019 21:35:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/practicaUsuariosMVCPaginacion/twigtemplates/maxim/_login.php on line 52
+[28-Jan-2019 22:31:46 UTC] PHP Notice:  Object of class izv\data\Usuario could not be converted to int in /home/ubuntu/workspace/practicaUsuariosMVCPaginacion/twigtemplates/maxim/_login.php on line 28
+[28-Jan-2019 22:31:46 UTC] PHP Notice:  Undefined variable: resultado in /home/ubuntu/workspace/practicaUsuariosMVCPaginacion/twigtemplates/maxim/_login.php on line 30
+[28-Jan-2019 22:32:13 UTC] PHP Notice:  Object of class izv\data\Usuario could not be converted to int in /home/ubuntu/workspace/practicaUsuariosMVCPaginacion/twigtemplates/maxim/_login.php on line 28
